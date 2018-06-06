@@ -13,6 +13,7 @@
         <summary>Integration with OTRS</summary>
         <release-date>2016-11-15</release-date>
         <vendor url="http://www.project-open.com/">]project-open[</vendor>
+	<license>]project-open[ Free License (FL)</license>
         <description format="text/html">Imports the OTRS MySQL database and synchronizes the included tickets with the ]project-open[ Helpdesk.</description>
 
         <!-- No dependency information -->
